@@ -1,2 +1,2 @@
 # ProjetoTecnico
-Repositório para hospedar rotinas e projetos SENAI 2022.
+Repositório para hospedar rotinas e projetos Sistema S-2022.
