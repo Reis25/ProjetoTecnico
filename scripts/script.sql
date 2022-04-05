@@ -24,5 +24,15 @@ select uf, cod_uf, populacao from senso where uf = 'AL' AND populacao >= 5000
 select * from senso where populacao >= 1000000
 
 -- Observando todos os municípios execeto os de São Paulo: 
-
 SELECT* FROM senso WHERE uf<>'SP'
+
+
+
+
+
+
+
+
+
+
+
